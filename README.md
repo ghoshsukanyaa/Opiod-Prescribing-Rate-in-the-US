@@ -16,5 +16,5 @@ The goal is to optimize resource allocation for addiction treatment and preventi
 
 Data Description:
 For the analysis of potential opioid overuse, 3 datasets are used predominantly, namely an Opioid claims dataset, which acts as the master dataset. This was merged with another file, including socioeconomic factors such as unemployment rates and median household income. A third data set consisting of per capita income data for states across the US was used as supplementary data to understand our insights in more detail.
-The final dataset was yielded by merging all the datasets on a common column - FIPS code. The master dataset has 18,831 rows and 13 variables
+The final dataset was yielded by merging all the datasets on a common column - FIPS code. The master dataset has 18,831 rows and 13 variables.
 
