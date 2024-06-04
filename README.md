@@ -14,3 +14,7 @@ Overdoses involving opioids killed more than 80,000 people in 2021, and nearly 8
 Problem Statement:
 The goal is to optimize resource allocation for addiction treatment and prevention as a means to address the opioid crisis. Through targeted strategies and regression analysis, we aim to mitigate societal and economic consequences while making data-driven decisions for more effective interventions against opioid overuse.
 
+Data Description:
+For the analysis of potential opioid overuse, 3 datasets are used predominantly, namely an Opioid claims dataset, which acts as the master dataset. This was merged with another file, including socioeconomic factors such as unemployment rates and median household income. A third data set consisting of per capita income data for states across the US was used as supplementary data to understand our insights in more detail.
+The final dataset was yielded by merging all the datasets on a common column - FIPS code. The master dataset has 18,831 rows and 13 variables
+
